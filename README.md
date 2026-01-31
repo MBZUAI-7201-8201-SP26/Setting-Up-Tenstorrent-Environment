@@ -1,5 +1,7 @@
 ## Setting up Tenstorrent Environment
 
+*Some of the steps here are covered in the Lab 1 instructions as well.*
+
 1. Clone `tt-metal`:
 
    ```
